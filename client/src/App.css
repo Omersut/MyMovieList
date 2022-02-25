@@ -1,0 +1,69 @@
+.nav {
+  padding: 23px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #e2e8f0;
+  line-height: 2px;
+  align-items: center;
+}
+.nav .left {
+  display: flex;
+}
+nav .left .menu {
+  display: flex;
+  margin-left: 40px;
+}
+nav .left .menu li a {
+  color: blue;
+  font-size: 1.1rem;
+  display: block;
+  text-decoration: none;
+}
+nav .left .menu li a:hover {
+  color: black;
+}
+#content {
+  padding: 25px;
+}
+.logo {
+  font-weight: bold;
+}
+.movies {
+  justify-content: space-between;
+  display: flex;
+}
+
+.btn-group .vertical-button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: #c90000;
+  color: white;
+}
+.btn-group .mylist:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: blue;
+  color: white;
+}
+
+.btn-group .details:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: orangered;
+  color: rgb(255, 255, 255);
+}
+.App {
+  background-color: black;
+  color: antiquewhite;
+}
+.hover:hover {
+  color: rgb(0, 0, 0);
+}
+.mylist.remove {
+  background-color: #c90000;
+  color: white;
+}
+.mylist.remove:hover {
+  background-color: #c90000;
+  color: white;
+}
