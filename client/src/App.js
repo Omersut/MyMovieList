@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <p>tayfun dagci</p>
-        dsfdsfdsfds
+        dsfdsfdsfds qwlkevqjwıevqowpkveqqewqqwrwr
         <div id="content">
           <Routes>
             <Route exact path="/" element={<Movies />} />
