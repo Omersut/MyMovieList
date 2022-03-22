@@ -16,6 +16,7 @@ function App() {
       <Router>
         <Navbar />
         <p>tayfun dagci</p>
+        <p>ömer süt</p>
 
         <div id="content">
           <Routes>
