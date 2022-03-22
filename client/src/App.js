@@ -15,6 +15,7 @@ function App() {
     <div className="App">
       <Router>
         <Navbar />
+        <p>tayfun dagci</p>
 
         <div id="content">
           <Routes>
